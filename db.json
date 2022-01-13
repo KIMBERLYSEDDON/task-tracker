@@ -16,7 +16,13 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Bike Ride",
+      "day": "Today at 2:30pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
